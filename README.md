@@ -21,7 +21,7 @@ The Adventures of Machine Learning in the World of Pattern Recognition
 
 ## ข้อมูลสำหรับแบบฝึกหัด
 
-  * [ตารางโคดอน (Codon table)](https://github.com/tatpongkatanyukul/Books/blob/main/AdventuresML/ex1p9/codons.txt](https://github.com/tatpongkatanyukul/AdventuresML/blob/main/data/codons.txt)
+  * [ตารางโคดอน (Codon table)](https://github.com/tatpongkatanyukul/AdventuresML/blob/main/data/codons.txt)
   * [ข้อมูลลำดับดีเอ็นเอ (DNA Sequence of Homo Sapiens's Insulin)](https://github.com/tatpongkatanyukul/AdventuresML/blob/main/data/homo_sapiens_insulin.txt)
   * [ข้อมูลลำดับดีเอ็นเอ (DNA Sequence of Homo Sapiens's Mitochondrion)](https://github.com/tatpongkatanyukul/AdventuresML/blob/main/data/homo_sapiens_mitochondrion.txt)
   * [ข้อมูลลำดับดีเอ็นเอ (DNA Sequence of Homo Sapiens's P53)](https://github.com/tatpongkatanyukul/AdventuresML/blob/main/data/homo_sapiens_p53.txt)
