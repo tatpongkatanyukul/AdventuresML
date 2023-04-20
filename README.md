@@ -1,6 +1,6 @@
-# การผจญภัยของการเรียนรู้ของเครื่องในโลกการรู้จำรูปแบบ
+# <span style="color:yellow">การผจญภัยของการเรียนรู้ของเครื่องในโลกการรู้จำรูปแบบ</span>
 
-The Adventures of Machine Learning in the World of Pattern Recognition
+<span style="color:orange">The Adventures of Machine Learning in the World of Pattern Recognition</span>
 
 |ปก|รายละเอียด|
 |---|---|
