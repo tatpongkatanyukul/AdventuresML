@@ -6,7 +6,7 @@
 |---|---|
 | <img src="https://github.com/tatpongkatanyukul/AdventuresML/raw/main/frontcover/coverThumbnail.png" style="width:250px;"/> | การผจญภัยของการเรียนรู้ของเครื่องในโลกการรู้จำรูปแบบ 2023. ISBN (e-book) 978-616-603-025-9 จำนวนหน้า 528 |
 
-จัดจำหน่าย https://www.ookbee.com/ (รออนุมัติ 28 เมย 66)
+จัดจำหน่าย https://www.ookbee.com/shop/book/7f4724cd-23a0-430a-99f6-8a7e762b2836/
 
 ---
 สารบัญ
