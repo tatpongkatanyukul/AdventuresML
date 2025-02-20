@@ -34,6 +34,12 @@
 
 ---
 
+## อื่น ๆ
+
+* [Trax v1.4.1 (Oct 27, 2021)](https://github.com/google/trax) (บทที่ 10 แบบจำลองตัวแปลง)
+  * [zip](https://monet.en.kku.ac.th/courses/EN813706/Book/misc/trax-master.zip)
+---
+
 ปรัชญา
 
 * เขียนหนังสือที่ตัวเองจะรัก
