@@ -1,0 +1,1 @@
+code_gd_fn.py = {code: gd as function} = 04ClassicEx.tex
